@@ -1,5 +1,5 @@
 Moondream2 Vision 模型 Streamlit 应用
-423240616
+423240616 谢霆邦
 这是一款Streamlit应用，使用Moondream2视觉模型，基于上传的图片和用户提供的提示生成文本。
 
 特色
